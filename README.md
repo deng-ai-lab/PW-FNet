@@ -80,7 +80,7 @@ Since our paper is currently under review, we are only open-sourcing the rain re
 <tbody>
   <tr>
     <td>Baidu NetDisk</td>
-    <td> <a href="https://pan.baidu.com/s/1CzTKvR8PTLZD4SZY_DJ7Hg?pwd=cayf">Download (z9uv)</a>  </td>
+    <td> <a href="https://pan.baidu.com/s/1CzTKvR8PTLZD4SZY_DJ7Hg?pwd=cayf">Download</a>  </td>
   </tr>
 </tbody>
 </table>
