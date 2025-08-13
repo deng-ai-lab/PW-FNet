@@ -2,7 +2,9 @@
  Official implementation.
  
 #### News
-Since our paper is currently under review, we are only open-sourcing the rain removal-related code at this stage. Once the paper is accepted, we will open-source all the code. If you have any other academic-related requests or discussions, please feel free to raise them in the issue section or contact me via email. Thank you very much!
+Since our paper is currently under review, we are only open-sourcing the rain removal-related code at this stage. Once the paper is accepted, we will open-source all the code. If you have any other academic-related requests or discussions, please feel free to raise them in the issue section or contact me via email. 
+
+**We sincerely hope that if you find our work useful, you will kindly star our project and cite our paper appropriately! Thank you very much!**
 
 - **Aug 13, 2025:** Our paper is available at [https://arxiv.org/pdf/2507.13663](https://arxiv.org/pdf/2507.13663).
 
